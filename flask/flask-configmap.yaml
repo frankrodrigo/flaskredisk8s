@@ -4,6 +4,6 @@ metadata:
   name: flask-config
   namespace: flask
 data:
-  PGDB_HOST: "db.database.svc.cluster.local:5432"
+  PGDB_HOST: "db.database.svc.cluster.local"
   PGDB_NAME: "mydb"
-  REDIS_HOST: "redis.redis.svc.cluster.local:6379"
+  REDIS_HOST: "redis.redis.svc.cluster.local"

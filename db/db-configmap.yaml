@@ -4,4 +4,4 @@ metadata:
   name: db-config
   namespace: database
 data:
-  PGDB_NAME: "mydb"
+  PGDB_NAME: mydb
